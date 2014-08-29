@@ -1,0 +1,165 @@
+/** SETTINGS PAGE **/
+
+#RdyLnk-settings-form .settings-error {
+	width: 340px;
+}
+
+#RdyLnk-lite-ad-block {
+	border: 1px solid #f0470f;
+	display: block;
+	font-size: 16px;
+	line-height: 20px;
+	margin: 20px 0 0;
+	padding: 5px;
+	text-align: center;
+	text-decoration: none;
+	width: 300px;
+
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+}
+
+.RdyLnk-metaboxes {
+	padding-bottom: 20px;
+	width: 700px;
+}
+
+.RdyLnk-metaboxes .metabox-holder {
+	clear: both;
+	width: 700px;
+}
+
+.RdyLnk-metaboxes h2 .button {
+	margin: 0 0 0 4px;
+	position: relative;
+	top: -3px;
+}
+
+.RdyLnk-metaboxes .meta-box-sortables {
+	padding-right: 10px;
+}
+
+.wrap.RdyLnk-metaboxes div.settings-error {
+	margin-bottom: 0;
+	margin-right: 20px;
+}
+
+.RdyLnk-metaboxes .bottom-buttons {
+	padding-right: 20px;
+	text-align: right;
+}
+
+.RdyLnk-metaboxes td ul, .RdyLnk-shortcode-form ul {
+	margin: 0;
+}
+
+#RdyLnk-affiliate-links-cloaking-prefix {
+	width: 75px;
+}
+
+/** META BOX **/
+
+.RdyLnk-error {
+	background-color: #FFEBE8;
+	border: 1px solid #C00;
+	margin: 5px 0 15px;
+	padding: 0 .6em;
+
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.RdyLnk-error p {
+	margin: .5em 0;
+	padding: 2px;
+}
+
+#RdyLnk-status {
+	position: relative;
+	top: -5px;
+}
+
+#RdyLnk-result-template, .RdyLnk-result-image-medium, #RdyLnk-no-results {
+	display: none;
+}
+
+#RdyLnk-no-results td, #RdyLnk-search-link-container td {
+	padding: 5px;
+	text-align: center;
+}
+
+#RdyLnk-search-link {
+	font-size: 16px;
+}
+
+body .widefat .RdyLnk-actions {
+	text-align: center;
+	width: 305px;
+}
+
+.RdyLnk-shortcode-form {
+	display: none;
+}
+
+.RdyLnk-cta-images label {
+	display: block;
+	margin-bottom: 10px;
+}
+
+.RdyLnk-cta-images label * {
+	vertical-align: middle;
+}
+
+.RdyLnk-align {
+
+}
+
+.RdyLnk-align label {
+	display: block;
+	float: left;
+	font-weight: bold;
+	line-height: 1;
+	margin: 0 1em 0 0;
+}
+
+.RdyLnk-align label * {
+	display: inline;
+	vertical-align: middle;
+}
+
+.RdyLnk-align input {
+
+}
+
+.RdyLnk-align label span {
+	background: transparent no-repeat left center;
+	display: block;
+	float: right;
+	height: 15px;
+	line-height: 15px;
+	margin-top: 2px;
+	padding-left: 23px;
+}
+
+.RdyLnk-align .image-align-none-label span {
+	background-image: url(images/align-none.png);
+}
+
+.RdyLnk-align .image-align-left-label span {
+	background-image: url(images/align-left.png);
+}
+
+.RdyLnk-align .image-align-right-label span {
+	background-image: url(images/align-right.png);
+}
+
+.RdyLnk-align .image-align-center-label span {
+	background-image: url(images/align-center.png);
+}
+
+#RdyLnk-image-size-template {
+	display: none;
+}
